@@ -1,13 +1,13 @@
 
 #site-header {
-  padding: 1.5rem;
+  padding: 16px;
   border-bottom: 1px solid #ccc;
 }
 
 .card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  gap: 16px;
 }
 
 .card {
@@ -22,7 +22,7 @@
 input,
 select,
 textarea {
-  padding: 0.5rem 0.75rem;
+  padding: 6px 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 1rem;
